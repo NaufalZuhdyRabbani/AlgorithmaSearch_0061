@@ -61,5 +61,5 @@ void LinearSearch()
 		cin >> ch;
 
 
-	}while ((ch == 'y'))
+	} while ((ch == 'y') || (ch = 'Y'));
 }
